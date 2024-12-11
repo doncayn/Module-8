@@ -31,6 +31,7 @@ This is a Vehicle Builder project that allows the user to create and select vehi
 To install this project, the user must clone the repository from GitHub (The link where you are reading this). The user must have Typescript installed. Once you are in the repository, run the command "npm install" to install the necessary packages and dependencies. After that, all you need to do is run the command "npm run start" to start the application.
 
 ## Usage
+https://drive.google.com/file/d/11xD02xTy6F18wpAC7lMGMgMmEfFPUffd/view
 
 Once 'npm run start' is ran, the user will be prompted to create a new vehicle or select an existing vehicle (there are a few vehicles present already). The user can create a vehicle by selecting the type of vehicle (car, truck, or motorbike) and then entering the vehicle information (color, make, age, weight, so on). The user can then use the created vehicle. If the user selects an existing vehicle, they can use the selected vehicle. The user can perform actions with the vehicle and see the result of the action in the command-line. The user can perform additional actions until they choose to exit. The actions the user can perform are including, but not limited to, aceelerating, decelerating, doing a wheelie (for motorbikes), and towing (for trucks). You can also turn left and right or print any necessary information about the vehicle.
 
