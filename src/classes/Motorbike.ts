@@ -3,7 +3,7 @@ import Vehicle from './Vehicle.js';
 import Wheel from './Wheel.js';
 
 // Motorbike class that extends Vehicle class
-class Motorbike extends Vehicle {
+class Bike extends Vehicle {
   // Declare properties of the Motorbike class
   vin: string;
   color: string;
@@ -77,4 +77,4 @@ class Motorbike extends Vehicle {
 }
 
 // Export the Motorbike class as the default export
-export default Motorbike;
+export default Bike;

@@ -52,12 +52,12 @@ class Car extends Vehicle {
     super.printDetails();
 
     // Print details of the Car class
-    console.log(`VIN: ${this.vin}`);
-    console.log(`Color: ${this.color}`);
+    console.log(`License Plate: ${this.vin}`);
+    console.log(`Rims: ${this.color}`);
     console.log(`Make: ${this.make}`);
     console.log(`Model: ${this.model}`);
     console.log(`Year: ${this.year}`);
-    console.log(`Weight: ${this.weight} lbs`);
+    console.log(`Color: ${this.weight} lbs`);
     console.log(`Top Speed: ${this.topSpeed} mph`);
 
     // Print details of the wheels
